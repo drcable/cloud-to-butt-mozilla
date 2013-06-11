@@ -31,10 +31,10 @@
     {
         var v = textNode.nodeValue;
     
-        v = v.replace(/\bThe Cloud\b/g, "My Butt");
-        v = v.replace(/\bThe cloud\b/g, "My butt");
-        v = v.replace(/\bthe Cloud\b/g, "my Butt");
-        v = v.replace(/\bthe cloud\b/g, "my butt");
+        v = v.replace(/\Flat Design\b/g, "Mountainous Design");
+        v = v.replace(/\bFlat design\b/g, "Mountainous design");
+        v = v.replace(/\bflat Design\b/g, "mountainous Design");
+        v = v.replace(/\bflat design\b/g, "mountainous design");
     
         textNode.nodeValue = v;
     }
