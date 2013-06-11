@@ -1,11 +1,6 @@
-# cloud-to-butt-mozilla
+# flat-to-monuntainous-mozilla
 
-Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
-
-
-## Installing
-
-Download [CloudToButt.xpi](https://github.com/DaveRandom/cloud-to-butt-mozilla/blob/master/CloudToButt.xpi?raw=true)
+Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension to take the piss out of flat design.
 
 
 ## Building
