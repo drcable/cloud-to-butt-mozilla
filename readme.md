@@ -1,7 +1,6 @@
-# flat-to-monuntainous-mozilla
+# B.manning mozzilla
 
-Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension to take the piss out of flat design.
-
+B.manning is widley thought to be a trasn* woman, or at least genderQueer. However they are constantly treated by them media as a man, in contradiction of journalistic standards. This extention swaps "Bradley manning" with "B.manning" and "he" with "they" on all pages you view. Hopefully it shouldn't cause too much confusion. It's forked from daveRandoms "cloud to but".
 
 ## Building
 
