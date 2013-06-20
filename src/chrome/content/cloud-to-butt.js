@@ -31,10 +31,12 @@
     {
         var v = textNode.nodeValue;
     
-        v = v.replace(/\Flat Design\b/g, "Mountainous Design");
-        v = v.replace(/\bFlat design\b/g, "Mountainous design");
-        v = v.replace(/\bflat Design\b/g, "mountainous Design");
-        v = v.replace(/\bflat design\b/g, "mountainous design");
+        v = v.replace(/\bBradley Manning\b/g, "B. Manning");
+        v = v.replace(/\bBradley manning\b/g, "B. Manning");
+        v = v.replace(/\bbradley Manning\b/g, "B. Manning");
+        v = v.replace(/\bbradley manning\b/g, "B. Manning");
+        v = v.replace(/\bhe\b/g, "they");
+        v = v.replace(/\bHe\b/g, "They");
     
         textNode.nodeValue = v;
     }
